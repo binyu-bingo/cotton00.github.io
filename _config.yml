@@ -22,3 +22,4 @@ myblog:
   postbgimg: []
 
 categories: [java, books]
+theme: jekyll-theme-minimal
