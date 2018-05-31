@@ -7,18 +7,18 @@ permalink: /:title
 encoding: UTF-8
 gems: [jekyll-paginate]
 
-title: Github Blog Template
-url: http://litaotao.github.io
+title: Github IO
+url: https://cotton00.github.io/blog/
 feed: /atom.xml
-author_info: <a href="http://litaotao.github.io/">taotaoli</a>
+author_info: <a href="https://cotton00.github.io/blog/">Bin Yu</a>
 
 myblog:
   gavatar: images/2.jpg
   gpname: litaotao
-  linkedin: http://www.linkedin.com/in/taotaoli
-  github: https://github.com/litaotao
-  email: mailto:taotao.engineer@gmail.com
+  #linkedin: http://www.linkedin.com/in/binyu
+  #github: https://github.com/
+  #email: mailto:***@gmail.com
   coverimgs: []
   postbgimg: []
 
-categories: [python, books]
+categories: [java, books]
